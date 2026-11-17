@@ -6,7 +6,7 @@ import {
   INITIAL_GALLERY,
   INITIAL_TESTIMONIALS
 } from './data/siteData';
-import NavbarAndHero from './components/NavbarAndHero';
+import NavbarAndHero from './components/NavBarAndHero';
 import CatalogAndShowcase from './components/CatalogAndShowcase';
 import FaqContactAndCms from './components/FaqContactAndCms';
 
